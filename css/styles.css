@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+h{
+    color: blue;
+    text-align: center;
+}
+h2{
+    font-style: italic;
+    text-align: center;
+    color: teal;
+}
+p{
+    color: gray;
+}
+body{
+    background-color: skyblue;
+=======
 h1{
     color:darkred;
 }
@@ -12,4 +28,5 @@ body{
     background-color: salmon;
     font-family: sans-serif;
     text-align: center;
+>>>>>>> 6521d78c9c9fbb79e0ed93d406583ad4569fea50
 }
